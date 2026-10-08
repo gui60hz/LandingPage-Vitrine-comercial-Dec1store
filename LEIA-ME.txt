@@ -1,0 +1,24 @@
+MVP - Vitrine Virtual Dèc Store
+
+Alterações aplicadas:
+- Redirecionamento trocado de WhatsApp para Instagram
+- Logo enviada pelo cliente aplicada no cabeçalho e rodapé
+- Efeito de flores de sakura caindo ao mover o mouse na tela
+- Botões dos produtos atualizados para "Pedir no Instagram"
+
+Arquivos:
+- index.html
+- style.css
+- script.js
+- assets/logo-dec-store.png
+- assets/*.svg
+
+Como usar:
+1. Abra o arquivo index.html no navegador.
+2. No script.js, troque INSTAGRAM_URL pelo link real do Instagram da loja.
+3. Edite o array products para alterar nomes, preços, categorias e descrições.
+4. Se quiser trocar os produtos por fotos reais, substitua as imagens da pasta assets.
+
+Observação:
+O Instagram normalmente não permite abrir uma conversa com mensagem pré-preenchida como no WhatsApp.
+Por isso, os botões levam ao perfil da loja. O cliente deve enviar direct informando o nome do produto.
