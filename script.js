@@ -8,48 +8,48 @@ const INSTAGRAM_URL = "https://www.instagram.com/dec1store/";
 const products = [
   {
     id: 1,
-    name: "Kit Aquarela Essencial",
+    name: "Pintura em impressão 3D",
     category: "pintura",
     price: 89.90,
-    image: "assets/kit-aquarela.svg",
-    description: "Estojo com cores vibrantes para estudos, ilustrações e cartões.",
+    image: "assets/Foto anjo.png",
+    description: "Pintura em escultura feita com impressora 3D.",
     tag: "Mais pedido"
   },
   {
     id: 2,
-    name: "Sketchbook Rosé A5",
-    category: "papelaria",
+    name: "Peça artesanal em cerâmica resinada",
+    category: "cerâmica",
     price: 42.90,
-    image: "assets/sketchbook.svg",
-    description: "Caderno artístico com papel encorpado e acabamento delicado.",
+    image: "assets/foto onça.png",
+    description: "Peça artesanal em cerâmica resinada, pintada à mão, onde cada detalhe conta uma história única. Perfeita para quem ama natureza, delicadeza e um toque de personalidade na decoração.",
     tag: "Novo"
   },
   {
     id: 3,
-    name: "Pincéis Soft Touch",
-    category: "pintura",
+    name: "Porta-copos em MDF de alta qualidade e adesivagem em vinil",
+    category: "porta-copos",
     price: 36.50,
-    image: "assets/pinceis.svg",
-    description: "Conjunto versátil para aquarela, guache e técnicas mistas.",
+    image: "assets/foto porta copo.png",
+    description: "Proteja sua mesa com o poder dos animes! Nossos porta-copos em MDF de alta qualidade e adesivagem em vinil são perfeitos para maratonar seus episódios favoritos sem preocupação. Durabilidade e estilo em cada detalhe.",
     tag: "Favorito"
   },
   {
     id: 4,
-    name: "Lápis de Cor Pastel",
+    name: "Livros de colorir de Kpop Demon Hunters",
     category: "desenho",
-    price: 54.90,
-    image: "assets/lapis-cor.svg",
-    description: "Paleta suave para ilustrações delicadas e projetos criativos.",
-    tag: "24 cores"
+    price: 40.00,
+    image: "assets/foto livros.png",
+    description: "Versão Power: 25 páginas com a gramatura extra-robusta de 240g! Perfeito para canetas, marcadores e aquarela sem preocupação. 🖌️ Versão Ultra: 40 páginas com a gramatura excelente de 180g! Mais páginas para soltar a criatividade.",
+    tag: "colorir"
   },
   {
     id: 5,
-    name: "Canetas Fine Art",
-    category: "desenho",
+    name: "Porta treco de atum",
+    category: "porta treco",
     price: 29.90,
-    image: "assets/canetas.svg",
-    description: "Pontas finas para line art, lettering e detalhes precisos.",
-    tag: "6 pontas"
+    image: "assets/foto porta treco.png",
+    description: "Porta treco de atum",
+    tag: "Delicado"
   },
   {
     id: 6,
